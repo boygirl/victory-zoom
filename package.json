@@ -1,0 +1,19 @@
+{
+  "name": "victory-zoom",
+  "version": "0.0.1",
+  "description": "zoom component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-zoom.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-zoom/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-zoom",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
